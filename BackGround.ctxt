@@ -1,7 +1,9 @@
 #BlueJ class context
-comment0.target=BackGround
-comment0.text=\n\ Write\ a\ description\ of\ class\ BackGround\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\n\ Act\ -\ do\ whatever\ the\ BackGround\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
-numComments=2
+comment0.target=Background
+comment1.params=img
+comment1.target=Background(java.lang.String)
+comment2.params=img\ vImg
+comment2.target=Background(java.lang.String,\ greenfoot.GreenfootImage)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

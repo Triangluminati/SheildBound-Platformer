@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=Enemy()
+comment2.params=sizeMulti\ Health
+comment2.target=Enemy(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ eTakeDamage()
+comment5.params=
+comment5.target=void\ spritesAndMovement()
+comment6.params=
+comment6.target=boolean\ isInGround()
+comment7.params=
+comment7.target=boolean\ isOnGround()
+comment8.params=
+comment8.target=boolean\ canPatrol()
+numComments=9

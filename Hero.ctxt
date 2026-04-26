@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hero
+comment1.params=
+comment1.target=Hero()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fall()
+comment4.params=
+comment4.target=void\ takeDamage()
+comment5.params=
+comment5.target=void\ closestPlatforms()
+comment6.params=
+comment6.target=void\ attack()
+numComments=7

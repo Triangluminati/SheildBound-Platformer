@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=methods
+comment1.params=key
+comment1.target=boolean\ keyIs(java.lang.String)
+comment2.params=key
+comment2.target=boolean\ isKey(java.lang.String)
+numComments=3
