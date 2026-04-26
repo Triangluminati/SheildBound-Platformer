@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=refObj
+comment0.text=\n\ Write\ a\ description\ of\ class\ refObj\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=refObj()
+comment2.params=Color
+comment2.target=refObj(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
